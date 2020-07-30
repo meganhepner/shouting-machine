@@ -2,15 +2,14 @@
 
 #### _starting out with forms, 6.3.20_
 
-#### By _**Megan Hepner**_
+#### By _**Megan Hepner & Janet Karpenske**_
 
 ## Description
-  This webpage experiments with creating a form, gathering the inputted sentence, and returning it to the user. When the sentence is returned it is written in all capital letters
+  This webpage experiments with creating a form, gathering input sentence, and returning it to the user. When the sentence is returned it is written in all capital letters
 
 
 ## Setup/Installation Requirements
 
-* use the terminal to clone this repository 
 * to clone this content, copy the url provided by the 'clone or download' button in GitHub
 * in terminal use the command 'git clone (GitHub url)'
 * open the content in a web browser
